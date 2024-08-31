@@ -1,4 +1,6 @@
-# Image Processing Project
+# HW1_MN
+
+An Image Processing Project.
 
 ## Timeline and Overview
 
